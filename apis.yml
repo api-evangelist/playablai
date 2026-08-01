@@ -1,7 +1,15 @@
 aid: playablai
-name: Playablai
-description: Playablai is a company surfaced as a portfolio company of y-combinator and added to the API
-  Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+name: Playabl
+description: >-
+  Playabl is a no-code, conversational game creation platform that lets anyone
+  build games and interactive experiences by chatting with AI. Operated by
+  Replkt, Inc. and backed by Y Combinator, Playabl turns natural-language prompts
+  into playable games across genres including sports, idle, brainrot, dopamine,
+  and think/puzzle categories, with no coding required. The product is a
+  consumer-facing web application (playabl.ai); as of this profile Playabl does
+  not publish a public developer API, SDK, or technical documentation surface.
+  This profile was surfaced as a Y Combinator portfolio company and enriched by
+  the API Evangelist pipeline from the company's public web presence.
 url: https://raw.githubusercontent.com/api-evangelist/playablai/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -9,14 +17,61 @@ x-backed-by:
 - y-combinator
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://cdn.playabl.ai/web-app/favicon_dark_48x48.png
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
+- Games
+- Game Development
+- Artificial Intelligence
+- No-Code
+- Generative AI
+- Consumer
+- Entertainment
 apis: []
+common:
+- type: Website
+  url: https://playabl.ai/en
+- type: SignUp
+  url: https://playabl.ai/en/auth/signup
+- type: Login
+  url: https://playabl.ai/en/auth/login
+- type: PrivacyPolicy
+  url: https://playabl.ai/en/legal/privacy-policy
+- type: TermsOfService
+  url: https://playabl.ai/en/legal/terms-and-conditions
+- type: X
+  url: https://x.com/playabl_ai
+- type: LinkedIn
+  url: https://www.linkedin.com/company/playablai/
+- type: Instagram
+  url: https://www.instagram.com/playabl_ai
+- type: YouTube
+  url: https://youtube.com/@playabl_ai
+- type: DomainSecurity
+  url: security/playablai-domain-security.yml
+- type: LLMsTxt
+  url: llms/playablai-llms.txt
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-20'
+  status: enriched
+  artifacts_added: 2
+  pass: local-v1

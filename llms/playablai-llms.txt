@@ -1,0 +1,53 @@
+# Playabl
+
+> Playabl is an AI-powered platform that lets anyone create web games
+> and interactive experiences by chatting with AI. No coding required.
+> Founded in 2025. Headquartered in the United States.
+
+## Product
+
+- [Homepage](https://playabl.ai/en/): Main product page and sign-up
+- [Game Builder](https://playabl.ai/en/projects): Start creating a game
+- [Pricing](https://playabl.ai/en/pricing): Plans and pricing
+- [Discover](https://playabl.ai/en/projects/discover): Games built with Playabl
+
+## About
+
+- [Privacy Policy](https://playabl.ai/en/legal/privacy-policy): Privacy information
+- [Terms and Conditions](https://playabl.ai/en/legal/terms-and-conditions): Terms of service
+
+## Key Facts
+
+- Category: AI game creation, no-code game builder
+- Technology: Conversational AI, generative AI
+- Use case: Game development without coding
+- Platform: Web browser (no download required)
+- Founded: 2025
+
+## What is Playabl?
+
+Playabl is an AI-powered game creation platform that enables users to build web games and interactive experiences through natural language conversation. Users describe their game idea in plain English, and Playabl's AI generates playable games instantly. No coding, game engine knowledge, or technical skills required.
+
+## How Playabl Works
+
+1. Describe your game idea in plain English
+2. Playabl's AI generates a playable prototype
+3. Refine your game by chatting with the AI
+4. Publish and share your game on the web
+
+## Who Uses Playabl
+
+- Educators creating interactive learning experiences
+- Indie developers prototyping game ideas quickly
+- Marketers building gamified content and campaigns
+- Hobbyists turning creative ideas into playable games
+- Students learning game design concepts
+
+## Features
+
+- AI-powered game creation from natural language
+- No-code game builder interface
+- Chat-based game development and iteration
+- Web game publishing and sharing
+- Interactive experience builder
+- Instant playable prototypes
