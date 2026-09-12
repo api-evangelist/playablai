@@ -86,3 +86,5 @@ x-enrichment:
   status: enriched
   artifacts_added: 2
   pass: local-v1
+x-parent: neonrain-inc
+x-relationship: product
